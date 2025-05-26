@@ -24,19 +24,26 @@ src/
 
 ## Getting Started
 
-### 1. Install Dependencies
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/JanKaram2020/palmoutsource-front.git
+cd palmoutsource-front
+```
+
+### 2. Install dependencies
 
 ```bash
 yarn
 ```
 
-### 2. Start Development Server
+### 3. Start Development Server
 
 ```bash
 yarn dev
 ```
 
-### 3. API Requirements
+### 4. API Requirements
 
 Make sure your the backend is running and accessible at:
 
