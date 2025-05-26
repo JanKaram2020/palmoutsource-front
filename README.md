@@ -15,14 +15,14 @@ src/
 ├── index.css             
 ```
 
-## 📦 Tech Stack
+## Tech Stack
 
 - **React** (w/ TypeScript)
 - **Vite** (for fast development & bundling)
 - **Tailwind CSS** (for styling)
 - **@tanstack/react-table** (for data table rendering)
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Install Dependencies
 
